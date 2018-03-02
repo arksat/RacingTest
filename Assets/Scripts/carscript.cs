@@ -96,6 +96,7 @@ public class carscript : MonoBehaviour
 		}
 	}
 
+	// driving speed
 	const float addSpeed = 0.002f;
 	void Drive_Forward()
 	{
